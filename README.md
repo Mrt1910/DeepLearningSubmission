@@ -1,7 +1,7 @@
 # Submission Links
 
-- **Dataset + Model weights:** https://drive.google.com/drive/folders/YOUR-LINK
-- **Source code (this repo):** https://github.com/YOUR-USERNAME/lulc-sar-segmentation
+- **Dataset + Model weights:** https://drive.google.com/drive/folders/1JI9aZ1xbCNqBVfX-_kAoxEEpRHFYjoQQ?usp=sharing
+- **Source code (this repo):** https://github.com/Mrt1910/DeepLearningSubmission.git
 
 # LULC Segmentation from Sentinel-1 SAR
 
