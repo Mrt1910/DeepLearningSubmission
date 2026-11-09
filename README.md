@@ -1,13 +1,13 @@
+# Submission Links
+
+- **Dataset + Model weights:** https://drive.google.com/drive/folders/YOUR-LINK
+- **Source code (this repo):** https://github.com/YOUR-USERNAME/lulc-sar-segmentation
+
 # LULC Segmentation from Sentinel-1 SAR
 
 Land Use and Land Cover (LULC) semantic segmentation using Sentinel-1 SAR data as the sole input.  
 Model: U-Net with ResNet-34 encoder. Labels: ESA WorldCover 2020 (11 classes, 10 m).  
 Data: Microsoft Planetary Computer (anonymous access, no account required).
-
-## Submission Links
-
-- **Dataset + Model weights:** https://drive.google.com/drive/folders/YOUR-LINK
-- **Source code (this repo):** https://github.com/YOUR-USERNAME/lulc-sar-segmentation
 
 ---
 
