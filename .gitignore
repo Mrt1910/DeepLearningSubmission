@@ -1,0 +1,12 @@
+data/
+checkpoints/
+weights/
+results/
+__pycache__/
+*.pyc
+.DS_Store
+*.tif
+*.npz
+*.pth
+*.zip
+*.tar.gz
